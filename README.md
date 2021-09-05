@@ -64,7 +64,7 @@ Create DB `tourist_blog.sql`
 ### Note: Naming conventions:
 
 |     | Cake 3 | Cake 2 |
-| --- | --- |
+| --- | --- | --- |
 | Database Table | entries | entries |
 | X-Ref Table | entries_somethings | entries_somethings |
 | Model class | src/Model/Entry.php | Model/Entry.php |
